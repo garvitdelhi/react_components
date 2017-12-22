@@ -97,7 +97,7 @@ export default class DropdownExample extends Component {
     "data={\n\t[\n" +
     "\t\t{text: \"Mumbai\", value: \"0\"},\n" +
     "\t\t{text: \"Delhi\", value: \"1\"},\n" +
-    "\t\t{text: \"Bangalore\", value: \"2\"},\n" +
+    "\t\t{text: \"Bangalore\", value: \"2\", disabled: true},\n" +
     "\t\t{text: \"Hyderabad\", value: \"3\"},\n" +
     "\t\t{text: \"Ahmedabad\", value: \"4\"},\n" +
     "\t\t{text: \"Chennai\", value: \"5\"},\n" +
