@@ -1,0 +1,15 @@
+.card {
+  margin: 10px;
+  box-shadow: 0 -1px 0 #e0e0e0, 0 0 2px rgba(0,0,0,.12), 0 2px 4px rgba(0,0,0,.24);
+}
+
+.card .card-title {
+  padding: 10px;
+  border-bottom: 1px solid #e4e4e4;
+  text-align: center;
+  color: #3e4242;
+}
+
+.card .card-content {
+  padding: 10px;
+}
