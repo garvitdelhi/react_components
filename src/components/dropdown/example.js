@@ -18,7 +18,8 @@ export default class DropdownExample extends Component {
       },
       {
         text: "Bangalore",
-        value: "2"
+        value: "2",
+        disabled: true
       },
       {
         text: "Hyderabad",

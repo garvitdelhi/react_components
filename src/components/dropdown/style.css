@@ -61,6 +61,17 @@
 
 .dropdown-option {
   padding: 10px;
+  user-select: none;
+}
+
+.dropdown-option.disabled {
+  background: #eaeaea;
+  color: #9c9c9c;
+  cursor: not-allowed;
+}
+
+.dropdown-option.disabled:hover {
+  background: #eaeaea;
 }
 
 .dropdown-option:hover {
